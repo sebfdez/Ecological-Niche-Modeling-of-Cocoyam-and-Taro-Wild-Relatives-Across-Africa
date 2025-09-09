@@ -1,5 +1,5 @@
 # Cocoyam and Taro Environmental Niche Modeling 
-Using Ecological Niche Models (ENMs), we are able to identify the factors that influence the habitat suitability of taro and cocoyam crop wild relatives (CWRs) and project high performing models across Africa to analyze shifts in species' current and future habitat suitability.
+Using Ecological Niche Models (ENMs), to identify the factors that influence the habitat suitability of taro and cocoyam crop wild relatives (CWRs) and project high performing models across Africa to analyze shifts in species' current and future habitat suitability.
 
 **01_Raw_Records.R** - downloads occurence records for CWRs from iDigBio and the Global Biodiversity Information Facility (GBIF)
 
